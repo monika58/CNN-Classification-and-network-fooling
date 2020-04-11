@@ -1,6 +1,6 @@
 # CNN-Classification-and-network-fooling
 
-This model classifies MNIST fashion data with 95% accuracy 
+This model classifies MNIST fashion data with 95% accuracy on test data
 
 
 Configuration and training details:
@@ -35,5 +35,12 @@ Configuration and training details:
 
 8. RELU nonlinearities have been used in all convolutional layers except last layer
 
+![plot](https://github.com/monika58/CNN-Classification-and-network-fooling/blob/master/Plot_with_different_optimizers.png)
 
-Network fooling is also performed on the same dataset by randomly changing some pixels in the image such that the class is changed.
+
+
+Network fooling is also performed on the same dataset by randomly changing some pixels in the image such that the class is changed
+
+![network_fooling](https://github.com/monika58/CNN-Classification-and-network-fooling)
+
+
