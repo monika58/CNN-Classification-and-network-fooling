@@ -36,4 +36,4 @@ Configuration and training details:
 8. RELU nonlinearities have been used in all convolutional layers except last layer
 
 
-## Network fooling is also performed on the same dataset by randomly changing some pixels in the image such that the class is changed.
+Network fooling is also performed on the same dataset by randomly changing some pixels in the image such that the class is changed.
