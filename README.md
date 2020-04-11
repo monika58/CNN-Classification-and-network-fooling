@@ -1,6 +1,6 @@
 # CNN-Classification-and-network-fooling
 
-This model classifies MNIST fashion data with 95% accuracy 
+## This model classifies MNIST fashion data with 95% accuracy 
 
 
 Configuration and training details:
@@ -11,7 +11,6 @@ Configuration and training details:
 5. Batch Normalization: Yes
 6. Optimizer: Adam
 7. Architecture :
-
   CONV1: Convolutional layer with 1 input channel and filter size (64 x 3 x 3
   x 3) with Padding 1 and strides 1
 
@@ -37,5 +36,4 @@ Configuration and training details:
 8. RELU nonlinearities have been used in all convolutional layers except last layer
 
 
-Network fooling is also performed on the same dataset by randomly changing some pixels in the image such that the class is
-changed.
+## Network fooling is also performed on the same dataset by randomly changing some pixels in the image such that the class is changed.
