@@ -1,6 +1,6 @@
 # CNN-Classification-and-network-fooling
 
-## This model classifies MNIST fashion data with 95% accuracy 
+This model classifies MNIST fashion data with 95% accuracy 
 
 
 Configuration and training details:
